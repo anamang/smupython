@@ -1,8 +1,8 @@
-print("첫 번째 수를 입력하세요. : ")
-a=input()
-print("두 번째 수를 입력하세요. : ")
-b=input()
+x = 10
+y = 2
 
-result=int(a)*int(b)
-
-print("{0}*{1}={2}".format(a,b,result))
+if x > 4:
+    if y > 2:
+        print(x*y)
+else:
+    print(x+y)
