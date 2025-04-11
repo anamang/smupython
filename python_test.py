@@ -14,3 +14,8 @@ elif coffee == 3 :
     print("#2. 블랙 커피를 탄다.")
 else :
     print("#2. 아무 커피를 탄다.\n")
+
+print("#4. 물을 붓는다.")
+print("#5. 스푼으로 젓는다.")
+print()
+print("손님~커피 여기 있습니다.")
