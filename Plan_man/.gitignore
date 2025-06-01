@@ -1,0 +1,29 @@
+# 파이썬
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 가상 환경
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# 구글 API 인증 정보 및 토큰
+credentials.json
+token.json
+*.token
+
+# VSCode
+.vscode/
+
+# 운영체제 생성 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

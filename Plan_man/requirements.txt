@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+lxml
+python-dotenv # 환경 변수 관리를 위함 (선택 사항이지만 좋은 습관입니다)
